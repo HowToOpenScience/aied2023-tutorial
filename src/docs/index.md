@@ -1,4 +1,4 @@
-# How to Open Science: Promoting Principles and Reproducibility Practices within the Learning Analytics Community
+# How to Open Science: Promoting Principles and Reproducibility Practices within the Artificial Intelligence in Education Community
 
 Conference: [*AIED 2023*][aied] | July 3^rd^ - 7^th^, 2023 | Tokyo, Japan
 
